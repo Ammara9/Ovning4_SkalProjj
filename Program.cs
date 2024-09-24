@@ -8,6 +8,7 @@
             QueueExaminer.ExamineQueue();
             StackExaminer.ExamineStack();
             StackExaminer.ReverseText();
+            ParenthesesChecker.CheckParentheses();
         }
     }
 }

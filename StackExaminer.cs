@@ -8,7 +8,7 @@ namespace Ovning4_SkalProjj
 {
     internal class StackExaminer
     {
-        public static void ExamineStack()
+        internal static void ExamineStack()
         {
             // Skapa en stack som håller namn på personer i "kön"
             Stack<string> stack = new Stack<string>();
@@ -52,7 +52,7 @@ namespace Ovning4_SkalProjj
         }
 
         //ReversMetod
-        public static void ReverseText()
+        internal static void ReverseText()
         {
             // Be användaren att mata in en sträng
             Console.WriteLine("Skriv in en text som du vill vända:");

@@ -9,7 +9,7 @@ namespace Ovning4_SkalProjj
     internal class QueueExaminer
     {
         // ExamineQueue simulerar köhanteringen
-        public static void ExamineQueue()
+        internal static void ExamineQueue()
         {
             // Skapa en kö som håller namn på personer i kön
             Queue<string> queue = new Queue<string>();

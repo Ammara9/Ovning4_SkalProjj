@@ -9,7 +9,7 @@ namespace Ovning4_SkalProjj
     internal class ListExaminer
     {
         // 1.1 Skapa ExaminList funktion för att undersöka hur en List fungerar och hanterar kapacitet.
-        public static void ExaminList()
+        internal static void ExaminList()
         {
             // Skapar en ny lista av heltal (int) som börjar med en standardkapacitet på 0.
             List<int> num = new List<int>();
