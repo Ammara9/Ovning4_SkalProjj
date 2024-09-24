@@ -6,6 +6,8 @@
         {
             ListExaminer.ExaminList();
             QueueExaminer.ExamineQueue();
+            StackExaminer.ExamineStack();
+            StackExaminer.ReverseText();
         }
     }
 }
