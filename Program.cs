@@ -12,7 +12,7 @@
             RecursiveMethods.RecursiveEven();
             RecursiveMethods.Fibonacci();
 
-            /*Iteration är mer effektiv när det gäller minnesanvändning, eftersom den inte skapar nya stackanrop för varje iteration.*/
+            /**/
         }
     }
 }
