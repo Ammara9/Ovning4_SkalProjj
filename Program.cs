@@ -11,8 +11,8 @@
             ParenthesesChecker.CheckParentheses();
             RecursiveMethods.RecursiveEven();
             RecursiveMethods.Fibonacci();
-
-            /**/
+            IterativeMethods.Fibonacciräknare();
+            IterativeMethods.IterativeEven();
         }
     }
 }
